@@ -18,6 +18,11 @@
     <modules>
         <module>aiothub-common-bom</module>
         <module>aiothub-common-core</module>
+        <module>aiothub-common-doc</module>
+        <module>aiothub-common-security</module>
+        <module>aiothub-common-satoken</module>
+        <module>aiothub-common-json</module>
+
     </modules>
 
 </project>

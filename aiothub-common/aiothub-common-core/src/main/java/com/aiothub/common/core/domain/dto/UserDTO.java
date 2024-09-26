@@ -11,7 +11,7 @@ import java.util.Date;
 /**
  * 用户
  *
- * @author Michelle.Chung
+ * @author Jason.Liu
  */
 @Data
 @NoArgsConstructor

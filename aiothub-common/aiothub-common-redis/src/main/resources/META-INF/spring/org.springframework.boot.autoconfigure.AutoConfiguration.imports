@@ -1,0 +1,2 @@
+com.aiothub.common.redis.config.RedisConfig
+com.aiothub.common.redis.config.CacheConfig

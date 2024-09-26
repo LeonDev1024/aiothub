@@ -7,7 +7,7 @@ import java.io.Serial;
 /**
  * 业务异常
  *
- * @author ruoyi
+ * @author Jason Liu
  */
 @Data
 @EqualsAndHashCode(callSuper = true)

@@ -3,7 +3,7 @@ package com.aiothub.common.core.validate;
 /**
  * 校验分组 add
  *
- * @author Lion Li
+ * @author Jason Liu
  */
 public interface AddGroup {
 }

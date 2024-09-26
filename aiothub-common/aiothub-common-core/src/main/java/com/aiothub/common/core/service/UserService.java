@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * 通用 用户服务
  *
- * @author Lion Li
+ * @author Jason Liu
  */
 public interface UserService {
 

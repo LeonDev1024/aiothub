@@ -11,7 +11,7 @@ import java.util.Arrays;
 /**
  * 业务状态枚举
  *
- * @author Jason.liu
+ * @author Jason.Liu
  */
 @Getter
 @AllArgsConstructor

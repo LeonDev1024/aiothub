@@ -9,7 +9,7 @@ import java.io.Serializable;
 /**
  * OSS对象
  *
- * @author Lion Li
+ * @author Jason Liu
  */
 @Data
 @NoArgsConstructor

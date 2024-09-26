@@ -5,7 +5,7 @@ import java.util.Map;
 /**
  * 通用 字典服务
  *
- * @author Lion Li
+ * @author Jason Liu
  */
 public interface DictService {
 

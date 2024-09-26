@@ -3,7 +3,7 @@ package com.aiothub.common.core.constant;
 /**
  * 租户常量信息
  *
- * @author Lion Li
+ * @author Jason Liu
  */
 public interface TenantConstants {
 

@@ -6,7 +6,7 @@ import cn.hutool.core.util.ReUtil;
 /**
  * 正则相关工具类
  *
- * @author Feng
+ * @author Jason Liu
  */
 public final class RegexUtils extends ReUtil {
 
