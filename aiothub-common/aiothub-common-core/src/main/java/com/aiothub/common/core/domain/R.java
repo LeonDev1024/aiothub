@@ -1,6 +1,6 @@
 package org.dromara.common.core.domain;
 
-import org.dromara.common.core.constant.HttpStatus;
+import com.aiothub.common.core.constant.HttpStatus;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
